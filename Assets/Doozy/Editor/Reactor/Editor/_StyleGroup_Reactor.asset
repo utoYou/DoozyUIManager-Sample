@@ -14,13 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GroupName: Reactor
   Styles:
-  - UssReference: {fileID: 7433441132597879392, guid: 49f7a19be8682494d97fe53c1ba54775,
-      type: 3}
-  - UssReference: {fileID: 7433441132597879392, guid: 159025d17aa85a44c96fd9f962c38814,
-      type: 3}
-  - UssReference: {fileID: 7433441132597879392, guid: dd514842430228948b06d2e251b504ed,
-      type: 3}
-  - UssReference: {fileID: 7433441132597879392, guid: 4f6d855157dddb94f8c62c0ea66be013,
-      type: 3}
-  - UssReference: {fileID: 7433441132597879392, guid: 99f0c752d389989408a56d1bbf51dcd9,
-      type: 3}
+  - UssReference: {fileID: 7433441132597879392, guid: 49f7a19be8682494d97fe53c1ba54775, type: 3}
+  - UssReference: {fileID: 7433441132597879392, guid: 159025d17aa85a44c96fd9f962c38814, type: 3}
+  - UssReference: {fileID: 7433441132597879392, guid: dd514842430228948b06d2e251b504ed, type: 3}
+  - UssReference: {fileID: 7433441132597879392, guid: 4f6d855157dddb94f8c62c0ea66be013, type: 3}
+  - UssReference: {fileID: 7433441132597879392, guid: 99f0c752d389989408a56d1bbf51dcd9, type: 3}

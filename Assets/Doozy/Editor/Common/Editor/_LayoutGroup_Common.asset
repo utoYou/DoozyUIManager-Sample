@@ -14,9 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GroupName: Common
   Layouts:
-  - UxmlReference: {fileID: 9197481963319205126, guid: 54cea7f108349f44cbb7f0e0d153cd65,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 1fc29074d94fc3b4ca712d6d32cc5e63,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 921d2884992267947a311eb9eb6d1709,
-      type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 54cea7f108349f44cbb7f0e0d153cd65, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 1fc29074d94fc3b4ca712d6d32cc5e63, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 921d2884992267947a311eb9eb6d1709, type: 3}

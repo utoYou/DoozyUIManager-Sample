@@ -14,7 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GroupName: Mody
   Styles:
-  - UssReference: {fileID: 7433441132597879392, guid: 73dfb56eeccd617428579ecbfca2f638,
-      type: 3}
-  - UssReference: {fileID: 7433441132597879392, guid: 228d289666b421742b6e1bd15e62eb1a,
-      type: 3}
+  - UssReference: {fileID: 7433441132597879392, guid: 73dfb56eeccd617428579ecbfca2f638, type: 3}
+  - UssReference: {fileID: 7433441132597879392, guid: 228d289666b421742b6e1bd15e62eb1a, type: 3}

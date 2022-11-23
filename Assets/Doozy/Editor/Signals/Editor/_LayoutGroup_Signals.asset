@@ -14,11 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GroupName: Signals
   Layouts:
-  - UxmlReference: {fileID: 9197481963319205126, guid: 0b224bf166527fe47bcd8ed46ab1da03,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 57675ec8f75131f4fafcbc6ad7527399,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 8784df8335a41ed40b4ab5a06e4e5f05,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: f924af6bf19f36d4c9b49531f16221ea,
-      type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 0b224bf166527fe47bcd8ed46ab1da03, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 57675ec8f75131f4fafcbc6ad7527399, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 8784df8335a41ed40b4ab5a06e4e5f05, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: f924af6bf19f36d4c9b49531f16221ea, type: 3}

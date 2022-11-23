@@ -14,9 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GroupName: Nody
   Layouts:
-  - UxmlReference: {fileID: 9197481963319205126, guid: 2b8a692b64e5a1147b0d6cad37912046,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 965e7823e88bc1c4e8071de021abb7d3,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 03cd5cab624baec47954411048d84fa2,
-      type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 2b8a692b64e5a1147b0d6cad37912046, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 965e7823e88bc1c4e8071de021abb7d3, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 03cd5cab624baec47954411048d84fa2, type: 3}

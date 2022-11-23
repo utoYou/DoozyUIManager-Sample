@@ -14,13 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GroupName: Reactor
   Layouts:
-  - UxmlReference: {fileID: 9197481963319205126, guid: a164923e57c507b42b5c94a2b478f126,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: f14c56c5c7a455c4c9bc4974a0fb4243,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 1b200622eed156d4c91fcf77a834498e,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 0c8d258a5ec5a0f4f80ad5ed843bfc4e,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 199520575edfca2419cb25b0b4d0775f,
-      type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: a164923e57c507b42b5c94a2b478f126, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: f14c56c5c7a455c4c9bc4974a0fb4243, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 1b200622eed156d4c91fcf77a834498e, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 0c8d258a5ec5a0f4f80ad5ed843bfc4e, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 199520575edfca2419cb25b0b4d0775f, type: 3}

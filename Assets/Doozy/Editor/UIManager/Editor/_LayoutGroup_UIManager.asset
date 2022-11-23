@@ -14,11 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GroupName: UIManager
   Layouts:
-  - UxmlReference: {fileID: 9197481963319205126, guid: 69d8390eebc63d24fb849d6b341c0fd2,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 8dcd9a2cbf9965c44af12513f6134c31,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 582361daaeed26b47808b389f50484e5,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: 5293d76f5f1057843ba23093eac21534,
-      type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 69d8390eebc63d24fb849d6b341c0fd2, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 8dcd9a2cbf9965c44af12513f6134c31, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 582361daaeed26b47808b389f50484e5, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 5293d76f5f1057843ba23093eac21534, type: 3}

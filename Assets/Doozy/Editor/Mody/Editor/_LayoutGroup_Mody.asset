@@ -14,7 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   GroupName: Mody
   Layouts:
-  - UxmlReference: {fileID: 9197481963319205126, guid: 180d35cec05cefe41a3587caaabcfd05,
-      type: 3}
-  - UxmlReference: {fileID: 9197481963319205126, guid: f5c10dffba023164793352808a89cf19,
-      type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: 180d35cec05cefe41a3587caaabcfd05, type: 3}
+  - UxmlReference: {fileID: 9197481963319205126, guid: f5c10dffba023164793352808a89cf19, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bd76c0fc98e49b88d5146f8747eae7f, type: 3}
+  m_Name: UIPopupDatabase
+  m_EditorClassIdentifier: 
+  Database:
+  - {fileID: 11400000, guid: 133a5b0a3435c424a951fcfedb6cbc4d, type: 2}
+  - {fileID: 11400000, guid: 9cfc9665aed030446bcab743e91bfad3, type: 2}
+  - {fileID: 11400000, guid: 4d8b44d5990791b4390addc59c0ffe67, type: 2}
