@@ -12,4 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: defe2424e2294add87e7fc8f38137ba9, type: 3}
   m_Name: NodySettings
   m_EditorClassIdentifier: 
-  Graph: {fileID: 11400000, guid: c77a7a4ea6aaac045855ada5c740542a, type: 2}
+  Graph: {fileID: 0}

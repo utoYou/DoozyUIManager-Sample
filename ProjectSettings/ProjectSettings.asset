@@ -660,7 +660,23 @@ PlayerSettings:
   webGLLinkerTarget: 1
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Android: INPUT_SYSTEM_PACKAGE
+    CloudRendering: INPUT_SYSTEM_PACKAGE
+    EmbeddedLinux: INPUT_SYSTEM_PACKAGE
+    GameCoreScarlett: INPUT_SYSTEM_PACKAGE
+    GameCoreXboxOne: INPUT_SYSTEM_PACKAGE
+    Lumin: INPUT_SYSTEM_PACKAGE
+    Nintendo Switch: INPUT_SYSTEM_PACKAGE
+    PS4: INPUT_SYSTEM_PACKAGE
+    PS5: INPUT_SYSTEM_PACKAGE
+    Stadia: INPUT_SYSTEM_PACKAGE
+    Standalone: INPUT_SYSTEM_PACKAGE
+    WebGL: INPUT_SYSTEM_PACKAGE
+    Windows Store Apps: INPUT_SYSTEM_PACKAGE
+    XboxOne: INPUT_SYSTEM_PACKAGE
+    iPhone: INPUT_SYSTEM_PACKAGE
+    tvOS: INPUT_SYSTEM_PACKAGE
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
