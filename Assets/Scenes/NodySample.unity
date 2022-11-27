@@ -4216,7 +4216,7 @@ MonoBehaviour:
     Selectable: {fileID: 1333309728}
   Id:
     Category: Example
-    Name: Back
+    Name: NextTwo
     Custom: 1
   Cooldown: 0
   DisableWhenInCooldown: 0
@@ -6283,7 +6283,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MultiplayerInfo: {fileID: 0}
-  OnStartBehaviour: 1
+  OnStartBehaviour: 4
   OnShowCallback:
     EventName: OnShowCallback
     Runners: []
