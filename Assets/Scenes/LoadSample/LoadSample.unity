@@ -1499,7 +1499,38 @@ MonoBehaviour:
         m_PersistentCalls:
           m_Calls: []
   Behaviours:
-    Behaviours: []
+    Behaviours:
+    - EventName: PointerClick
+      Runners: []
+      Event:
+        m_PersistentCalls:
+          m_Calls:
+          - m_Target: {fileID: 1954563948}
+            m_TargetAssemblyTypeName: LoadSample, Assembly-CSharp
+            m_MethodName: OnClickLoadButton
+            m_Mode: 1
+            m_Arguments:
+              m_ObjectArgument: {fileID: 0}
+              m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+              m_IntArgument: 0
+              m_FloatArgument: 0
+              m_StringArgument: 
+              m_BoolArgument: 0
+            m_CallState: 2
+      BehaviourName: 4
+      Receiver:
+        ConnectionMode: 1
+        SignalProviderId:
+          Type: 0
+          Category: Pointer
+          Name: Click
+        ProviderReference: {fileID: 0}
+        StreamId:
+          Category: None
+          Name: None
+          Custom: 0
+      Cooldown: 0
+      Selectable: {fileID: 1860933746}
     SignalSource: {fileID: 1860933744}
     Selectable: {fileID: 1860933746}
   Id:
@@ -3005,6 +3036,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebb6258df455af949a514ca5c48df87f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _loadButton: {fileID: 1860933746}
+  _progressor: {fileID: 1171436884}
 --- !u!1 &2099681840
 GameObject:
   m_ObjectHideFlags: 0
